@@ -12,7 +12,7 @@ jobs:
         projectPath:
           - .
         unityVersion:
-          - 2020.3.1f1 # Secretsに登録したULFのUnityバージョンを記入
+          - 2020.3.2f1 # Secretsに登録したULFのUnityバージョンを記入
         testMode:
           - playmode
           - editmode
